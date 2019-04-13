@@ -1,0 +1,3 @@
+author = Feaky
+version = 0.1
+displayName = Intalium

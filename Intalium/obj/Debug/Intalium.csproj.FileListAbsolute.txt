@@ -1,0 +1,12 @@
+C:\Users\Feaky\Documents\My Games\Terraria\ModLoader\Mod Sources\Intalium\bin\Debug\Intalium.dll
+C:\Users\Feaky\Documents\My Games\Terraria\ModLoader\Mod Sources\Intalium\bin\Debug\Intalium.pdb
+C:\Users\Feaky\Documents\My Games\Terraria\ModLoader\Mod Sources\Intalium\bin\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Feaky\Documents\My Games\Terraria\ModLoader\Mod Sources\Intalium\bin\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Feaky\Documents\My Games\Terraria\ModLoader\Mod Sources\Intalium\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Feaky\Documents\My Games\Terraria\ModLoader\Mod Sources\Intalium\bin\Debug\Microsoft.Xna.Framework.Xact.dll
+C:\Users\Feaky\Documents\My Games\Terraria\ModLoader\Mod Sources\Intalium\bin\Debug\Terraria.exe
+C:\Users\Feaky\Documents\My Games\Terraria\ModLoader\Mod Sources\Intalium\obj\Debug\Intalium.csprojAssemblyReference.cache
+C:\Users\Feaky\Documents\My Games\Terraria\ModLoader\Mod Sources\Intalium\obj\Debug\Intalium.csproj.CoreCompileInputs.cache
+C:\Users\Feaky\Documents\My Games\Terraria\ModLoader\Mod Sources\Intalium\obj\Debug\Intalium.csproj.CopyComplete
+C:\Users\Feaky\Documents\My Games\Terraria\ModLoader\Mod Sources\Intalium\obj\Debug\Intalium.dll
+C:\Users\Feaky\Documents\My Games\Terraria\ModLoader\Mod Sources\Intalium\obj\Debug\Intalium.pdb
