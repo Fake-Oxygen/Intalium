@@ -1,6 +1,6 @@
 # Intalium
 
-A mod for **Terraria 1.3.5** that introduces new tools for every stage of the game, inspired by the **Patapon** theme.
+A mod for **Terraria 1.3.5** that introduces new tools for every stage of the game, inspired by the **Patapon** game.
 
 > ⚠️ **Note:** This mod is no longer available on the Terraria Mod Browser, as it has not yet been ported to **Terraria 1.4.x**.
 
